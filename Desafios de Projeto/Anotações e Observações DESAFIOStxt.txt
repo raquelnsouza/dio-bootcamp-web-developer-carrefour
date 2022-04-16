@@ -1,0 +1,4 @@
+----- Anotações e Observações -----
+
+1 - O primeiro desafio é criar o nosso próprio repositório no Git Hub para organizar nossos estudos e desafios do Bootcamp.
+
