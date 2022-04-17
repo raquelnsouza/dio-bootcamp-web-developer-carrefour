@@ -1,0 +1,9 @@
+-- Aula Prática -- 
+
+Primeira aplicação-teste em PHP
+
+
+Servidor Web: XAMPP (https://www.apachefriends.org/pt_br/index.html)
+
+ 
+ 
